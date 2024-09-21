@@ -17,3 +17,5 @@ ESP32 board package for Arduino
 numpy
 opencv-python
 requests
+## Resources
+For more downloading weight and config file, visit the [yolov3](https://pjreddie.com/darknet/yolo/).
